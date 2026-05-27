@@ -4,8 +4,8 @@ Hi 👋 my name is Александр
 Я интересуюсь аналитикой данных.
 --------------------------------
 
-* ✉️  Для свящ=зи со мной можно использовать e-mail [fedyaevalex@gmail.com](mailto:fedyaevalex@gmail.com)
-* или Telegram @fedyaev22
+* ✉️  Для связи со мной можно использовать e-mail [fedyaevalex@gmail.com](mailto:fedyaevalex@gmail.com)
+* или Telegram <a href="https://t.me/fedyaev22">@fedyaev22</a>
 
 
 <h3> Какими технологиями и инструменты я владею в той или иной степени:</h3>
